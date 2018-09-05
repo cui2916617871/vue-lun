@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cui2916617871/vue-lun/issues"
   },
-  "homepage": "https://github.com/cui2916617871/vue-lun#readme"
+  "homepage": "https://github.com/cui2916617871/vue-lun#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
